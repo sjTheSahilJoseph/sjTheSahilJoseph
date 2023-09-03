@@ -30,8 +30,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sjthesahiljoseph"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sjthesahiljoseph" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjthesahiljoseph&show_icons=true&locale=en&layout=compact" alt="sjthesahiljoseph" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjthesahiljoseph&show_icons=true&theme=dark&locale=en&layout=compact" alt="sjthesahiljoseph" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjthesahiljoseph&show_icons=true&locale=en" alt="sjthesahiljoseph" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjthesahiljoseph&show_icons=true&theme=dark&locale=en" alt="sjthesahiljoseph" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sjthesahiljoseph&" alt="sjthesahiljoseph" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sjthesahiljoseph&theme=dark" alt="sjthesahiljoseph" /></p>
