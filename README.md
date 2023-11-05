@@ -1,4 +1,4 @@
-![](https://drive.google.com/file/d/1-1WF0Rb5QesZFvXWU2mD_X8QGuvJYmxk/view?usp=sharing)
+![](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBUoRi2MCqrM48ccIPqEk-xzqduTxJrAOkPMmsGf5i_Sb7p5V7A7g4KlPzc2zsXfr6-dxFwfIiXgqtWF-ASE6iLzg07lg=w1366-h651)
 
 # 💫 About Me:
 🔭 I’m currently working on Joseph Programming Company<br><br>🌱 I’m currently learning So many things. (Learning never ends)<br><br>👨‍💻 All of my projects are available at https://github.com/sjTheSahilJoseph<br><br>📝 I write articles on https://www.josephprogrammingcompany.com/blog<br><br>💬 Ask me about Computer Science, Mathematics, Programming, Software Engineering, Full-Stack Development, etc...<br><br>📫 How to reach me sj@sjthesahiljoseph.com<br><br>📄 Know about my experiences https://www.sjthesahiljoseph.com/<br><br>⚡ Fun fact I love doing intense training. I lift heavy weights with Full Range of Motion and Slow Tempo.
