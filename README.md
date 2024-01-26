@@ -27,6 +27,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sjTheSahilJoseph&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+[![SJ's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sjTheSahilJoseph&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 [![](https://visitcount.itsvg.in/api?id=sjTheSahilJoseph&icon=5&color=12)](https://visitcount.itsvg.in)
 
