@@ -1,5 +1,2 @@
----
-## SJ the Sahil Joseph
-### Programmer
-
----
+# SJ the Sahil Joseph
+## Dysfunctional Programmer
