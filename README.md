@@ -3,7 +3,7 @@
 Specialized in Highly Complex Projects.
 Software Engineer, Programmer & Content Creator.
 
-I've been working in the Computer industry for more than _10_ years, Currently working with international clients.
+I've been working in the Computer industry for more than **10** years, Currently working with international clients.
 
 Not every business is my client, though. Some signs we might not be a good fit include:
 1. The company is struggling to pay salaries.
