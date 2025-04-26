@@ -7,3 +7,25 @@
 
 
 
+<details> 
+  <summary><h2>Stats and Activity</h2></summary>
+
+  <h3>Streak Stats</h3>
+
+  <p>
+    <a href="https://github.com/sjthesahiljoseph">
+      <img title="SJ the Sahil Joseph" alt="sjTheSahilJoseph's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=sjthesahiljoseph&theme=dark&hide_border=false&short_numbers=true"/>
+    </a>
+  </p>
+
+  <h3>GitHub Profile Stats</h3>
+
+  <a href="https://github.com/sjthesahiljoseph"><img alt="sjthesahiljoseph's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sjthesahiljoseph&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/sjthesahiljoseph"><img alt="sjthesahiljoseph's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sjthesahiljoseph&langs_count=10&layout=compact&theme=dark&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <a href="https://github.com/sjthesahiljoseph/"><img alt="sjthesahiljoseph's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sjthesahiljoseph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" /></a>
+
+</details>
