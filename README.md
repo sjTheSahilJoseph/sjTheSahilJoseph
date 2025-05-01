@@ -16,6 +16,18 @@ He makes content related to computer stuff.
 </div>
 
 
+<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sjthesahiljoseph&label=Profile%20views&color=0e75b6&style=flat" alt="sjthesahiljoseph" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjthesahiljoseph" alt="sjthesahiljoseph" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@sjthesahiljoseph" target="blank"><img src="https://img.shields.io/twitter/follow/@sjthesahiljoseph?logo=twitter&style=for-the-badge" alt="@sjthesahiljoseph" /></a> </p>
+
+
+
+
+</div>
+
 
 <h2 align="center">Stats and Activity</h2>
 
