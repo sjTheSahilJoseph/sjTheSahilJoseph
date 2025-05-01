@@ -15,8 +15,10 @@ He makes content related to computer stuff.
 
 </div>
 
-<details>
-<summary><h2 align="center">Stats and Activity</h2></summary>
+
+
+<h2 align="center">Stats and Activity</h2>
+
 <div align="center">
 
 <h3>Streak Stats</h3>
@@ -36,6 +38,5 @@ He makes content related to computer stuff.
 </p>
 
 </div>
-</details>
 
 
