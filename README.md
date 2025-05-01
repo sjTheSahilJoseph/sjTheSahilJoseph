@@ -19,7 +19,7 @@ He makes content related to computer stuff.
 <div>
 <h2 align="left">Trophies:</h2>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjthesahiljoseph&column=5&row=5" alt="sjthesahiljoseph" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjthesahiljoseph&column=5&row=5&margin-h=15&margin-w=15" alt="sjthesahiljoseph" /></a> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sjthesahiljoseph&label=Profile%20views&color=0e75b6&style=flat" alt="sjthesahiljoseph" /> </p>
 
