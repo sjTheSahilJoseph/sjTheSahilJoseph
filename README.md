@@ -21,9 +21,6 @@ He makes content related to computer stuff.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjthesahiljoseph" alt="sjthesahiljoseph" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@sjthesahiljoseph" target="blank"><img src="https://img.shields.io/twitter/follow/@sjthesahiljoseph?logo=twitter&style=for-the-badge" alt="@sjthesahiljoseph" /></a> </p>
-
-
 - I'm currently learning **about myself.**
 
 - All of my projects are available at [sjthesahiljoseph.com](sjthesahiljoseph.com)
