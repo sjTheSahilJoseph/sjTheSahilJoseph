@@ -24,6 +24,7 @@ He makes content related to computer stuff.
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sjthesahiljoseph&label=Profile%20views&color=0e75b6&style=flat" alt="sjthesahiljoseph" /> </p>
 
 <h2 align="left">Information About Me:</h2>
+
 - I'm currently learning **about myself.**
 
 - All of my projects are available at [sjthesahiljoseph.com](sjthesahiljoseph.com)
@@ -42,6 +43,7 @@ On Social Media or Email (go to my website: sjthesahiljoseph.com).
 
 <h2 align="left">Stats and Activity:</h2>
 
+
 <div align="center">
 
 <h3>Streak Stats</h3>
@@ -57,6 +59,8 @@ On Social Media or Email (go to my website: sjthesahiljoseph.com).
 <img alt="sjthesahiljoseph's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sjthesahiljoseph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 </a>
 </p>
+
+</div>
 
 </div>
 
