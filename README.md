@@ -17,11 +17,11 @@ He makes content related to computer stuff.
 
 
 <div>
-<h2 align="center">Trophies:</h2>
+<h2 align="left">Trophies:</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjthesahiljoseph" alt="sjthesahiljoseph" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjthesahiljoseph&label=Profile%20views&color=0e75b6&style=flat" alt="sjthesahiljoseph" /> </p>
 
-
+<h2 align="left">Information About Me:</h2>
 - I'm currently learning **about myself.**
 
 - All of my projects are available at [sjthesahiljoseph.com](sjthesahiljoseph.com)
@@ -30,17 +30,10 @@ He makes content related to computer stuff.
 
 - Fun fact **I use emacs as my text editor.**
 
-<h3 align="left">Connect with me:</h3>
-
+<h2 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://linkedin.com/in/sjthesahiljoseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sjthesahiljoseph" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sjthesahiljoseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sjthesahiljoseph" height="30" width="40" /></a>
-<a href="https://fb.com/sjthesahiljoseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sjthesahiljoseph" height="30" width="40" /></a>
-<a href="https://instagram.com/sjthesahiljoseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sjthesahiljoseph" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@sjthesahiljoseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sjthesahiljoseph" height="30" width="40" /></a>
+On Social Media or Email (go to my website: sjthesahiljoseph.com).
 </p>
-
 
 </div>
 
