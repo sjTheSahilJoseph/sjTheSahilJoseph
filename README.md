@@ -10,7 +10,7 @@
     He makes content related to computer stuff.
 </p>
 
-<details> 
+<details style="display: flex; justify-content: center; align-items: center;"> 
   <summary><h2>Stats and Activity</h2></summary>
 
   <h3>Streak Stats</h3>
