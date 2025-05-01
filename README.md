@@ -24,6 +24,24 @@ He makes content related to computer stuff.
 <p align="left"> <a href="https://twitter.com/@sjthesahiljoseph" target="blank"><img src="https://img.shields.io/twitter/follow/@sjthesahiljoseph?logo=twitter&style=for-the-badge" alt="@sjthesahiljoseph" /></a> </p>
 
 
+- I'm currently learning **about myself.**
+
+- All of my projects are available at [sjthesahiljoseph.com](sjthesahiljoseph.com)
+
+- How to reach me **social media or email**
+
+- Fun fact **I use emacs as my text editor.**
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+
+<a href="https://linkedin.com/in/sjthesahiljoseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sjthesahiljoseph" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sjthesahiljoseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sjthesahiljoseph" height="30" width="40" /></a>
+<a href="https://fb.com/sjthesahiljoseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sjthesahiljoseph" height="30" width="40" /></a>
+<a href="https://instagram.com/sjthesahiljoseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sjthesahiljoseph" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@sjthesahiljoseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sjthesahiljoseph" height="30" width="40" /></a>
+</p>
 
 
 </div>
