@@ -29,8 +29,6 @@ He makes content related to computer stuff.
 </a>
 </p>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 <p>
 <a href="https://github.com/sjthesahiljoseph/">
 <img alt="sjthesahiljoseph's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sjthesahiljoseph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
