@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # SJ the Sahil Joseph
 
