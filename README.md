@@ -50,13 +50,7 @@ On Social Media or Email (go to my website: sjthesahiljoseph.com).
 
 <p>
 <a href="https://github.com/sjthesahiljoseph">
-<img title="SJ the Sahil Joseph" alt="sjTheSahilJoseph's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=sjthesahiljoseph&theme=dark&hide_border=false&short_numbers=true"/>
-</a>
-</p>
-
-<p>
-<a href="https://github.com/sjthesahiljoseph/">
-<img alt="sjthesahiljoseph's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sjthesahiljoseph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+<img title="SJ the Sahil Joseph" alt="sjTheSahilJoseph's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=sjthesahiljoseph&theme=light&hide_border=false&short_numbers=true"/>
 </a>
 </p>
 
