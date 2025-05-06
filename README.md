@@ -4,7 +4,7 @@
 SJ the Sahil Joseph
 </h1>
 
-![SJ the Sahil Joseph](https://drive.google.com/file/d/1OFwRdbqk_j0PfGr8ua40eOJ0H6QaWrdY/view?usp=sharing)
+![SJ the Sahil Joseph](https://github.com/sjTheSahilJoseph/sjTheSahilJoseph/raw/main/CoverA.png)
 
 <p>
 SJ the Sahil Joseph is a Software Engineer & Video Game Programmer.
