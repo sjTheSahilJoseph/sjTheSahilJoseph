@@ -6,12 +6,33 @@ SJ the Sahil Joseph
 
 ![SJ the Sahil Joseph](https://github.com/sjTheSahilJoseph/sjTheSahilJoseph/raw/main/CoverA.png)
 
-<p>
-SJ the Sahil Joseph is a Software Engineer, AI Engineer & Video Game Programmer.
-He's been working in computer industry for more than 10 years.
-Currently working with international clients.
-He makes content related to computer stuff.
-</p>
+
+## Software Engineer & Video Game Programmer.
+### Specialized in Highly Complex Projects.
+
+### Typically I do:
+- Full Stack Development
+- Backend & Frontend Development
+- Database Design and Development
+- Video Game Programming & Design
+
+Professional skills and expertise:
+- C \ C++ \ C# \ .NET \ ASP.NET \ Blazor \ Razor \ Python \ Django \ Angular
+- JavaScript \ TypeScript \ NodeJs \ React \ NextJs \ Tailwind CSS
+- Unity Engine \ Unreal Engine \ Custom Game Engine \ OpenGL \ DirectX
+- 2D \ 3D \ AR \ VR \ Mobile \ PC \ Console \ Web \ WebGL 
+- Git \ GitHub \ Svn \ CD/CI \ Kubernates \ Docker
+- Azure \ Vercel \ Nginix \ Apache \ Digital Ocean
+- SQL \ NoSQL \ PostgreSQL \ MySQL \ Microsoft SQL Server
+
+There are 3 ways we can work together:
+1. 1:1 Consultation Call
+2. Hire me hourly
+3. Hire me for contract
+
+Sound good? I'm one DM away.
+
+_ SJ the Sahil Joseph
 
 </div>
 
