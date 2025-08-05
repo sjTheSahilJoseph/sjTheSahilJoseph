@@ -4,7 +4,7 @@
 SJ the Sahil Joseph
 </h1>
 
-![SJ the Sahil Joseph](https://github.com/sjTheSahilJoseph/sjTheSahilJoseph/raw/main/CoverA.jfif)
+![SJ the Sahil Joseph](https://github.com/sjTheSahilJoseph/sjTheSahilJoseph/raw/main/CoverA.png)
 
 <p>
 SJ the Sahil Joseph is a Software Engineer, AI Engineer & Video Game Programmer.
