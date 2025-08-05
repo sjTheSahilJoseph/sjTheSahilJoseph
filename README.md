@@ -16,7 +16,7 @@ SJ the Sahil Joseph
 - Database Design and Development
 - Video Game Programming & Design
 
-Professional skills and expertise:
+### Professional skills and expertise:
 - C \ C++ \ C# \ .NET \ ASP.NET \ Blazor \ Razor \ Python \ Django \ Angular
 - JavaScript \ TypeScript \ NodeJs \ React \ NextJs \ Tailwind CSS
 - Unity Engine \ Unreal Engine \ Custom Game Engine \ OpenGL \ DirectX
@@ -25,14 +25,17 @@ Professional skills and expertise:
 - Azure \ Vercel \ Nginix \ Apache \ Digital Ocean
 - SQL \ NoSQL \ PostgreSQL \ MySQL \ Microsoft SQL Server
 
-There are 3 ways we can work together:
+### There are 3 ways we can work together:
 1. 1:1 Consultation Call
 2. Hire me hourly
 3. Hire me for contract
 
 Sound good? I'm one DM away.
 
-_ SJ the Sahil Joseph
+### How to reach me?:
+- Email: sjthesahiljoseph@gmail.com.
+- Website: sjthesahiljoseph.com.
+- Social Account Name: sjthesahiljoseph.
 
 </div>
 
@@ -48,16 +51,7 @@ _ SJ the Sahil Joseph
 
 - I'm currently learning **self.**
 
-- All of my projects are available at [sjthesahiljoseph.com](sjthesahiljoseph.com)
-
-- How to reach me **social media or email**
-
 - Fun fact **I use emacs as my text editor.**
-
-<h2 align="left">Connect with me:</h3>
-<p align="left">
-On Social Media or Email (go to my website: sjthesahiljoseph.com).
-</p>
 
 </div>
 
@@ -80,3 +74,4 @@ On Social Media or Email (go to my website: sjthesahiljoseph.com).
 </div>
 
 
+_ SJ the Sahil Joseph
