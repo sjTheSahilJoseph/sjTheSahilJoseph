@@ -4,10 +4,10 @@
 SJ the Sahil Joseph
 </h1>
 
-![SJ the Sahil Joseph](https://github.com/sjTheSahilJoseph/sjTheSahilJoseph/raw/main/CoverA.png)
+![SJ the Sahil Joseph](https://github.com/sjTheSahilJoseph/sjTheSahilJoseph/raw/main/CoverA.jfif)
 
 <p>
-SJ the Sahil Joseph is a Software Engineer & Video Game Programmer.
+SJ the Sahil Joseph is a Software Engineer, AI Engineer & Video Game Programmer.
 He's been working in computer industry for more than 10 years.
 Currently working with international clients.
 He makes content related to computer stuff.
@@ -25,7 +25,7 @@ He makes content related to computer stuff.
 
 <h2 align="left">Information About Me:</h2>
 
-- I'm currently learning **about myself.**
+- I'm currently learning **self.**
 
 - All of my projects are available at [sjthesahiljoseph.com](sjthesahiljoseph.com)
 
