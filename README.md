@@ -7,35 +7,8 @@ SJ the Sahil Joseph
 ![SJ the Sahil Joseph](https://github.com/sjTheSahilJoseph/sjTheSahilJoseph/raw/main/CoverA.png)
 
 
-## Software Engineer & Video Game Programmer.
+## Entrepreneur & Software Engineer.
 ### Specialized in Highly Complex Projects.
-
-### Typically I do:
-- Full Stack Development
-- Backend & Frontend Development
-- Database Design and Development
-- Video Game Programming & Design
-
-### Professional skills and expertise:
-- C \ C++ \ C# \ .NET \ ASP.NET \ Blazor \ Razor \ Python \ Django \ Angular
-- JavaScript \ TypeScript \ NodeJs \ React \ NextJs \ Tailwind CSS
-- Unity Engine \ Unreal Engine \ Custom Game Engine \ OpenGL \ DirectX
-- 2D \ 3D \ AR \ VR \ Mobile \ PC \ Console \ Web \ WebGL 
-- Git \ GitHub \ Svn \ CD/CI \ Kubernates \ Docker
-- Azure \ Vercel \ Nginix \ Apache \ Digital Ocean
-- SQL \ NoSQL \ PostgreSQL \ MySQL \ Microsoft SQL Server
-
-### There are 3 ways we can work together:
-1. 1:1 Consultation Call
-2. Hire me hourly
-3. Hire me for contract
-
-Sound good? I'm one DM away.
-
-### How to reach me?:
-- Email: sjthesahiljoseph@gmail.com.
-- Website: sjthesahiljoseph.com.
-- Social Account Name: sjthesahiljoseph.
 
 </div>
 
@@ -48,8 +21,6 @@ Sound good? I'm one DM away.
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sjthesahiljoseph&label=Profile%20views&color=0e75b6&style=flat" alt="sjthesahiljoseph" /> </p>
 
 <h2 align="left">Information About Me:</h2>
-
-- I'm currently learning **self.**
 
 - Fun fact **I use emacs as my text editor.**
 
