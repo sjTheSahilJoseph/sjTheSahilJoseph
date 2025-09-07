@@ -3,15 +3,7 @@
 <h1>
 SJ the Sahil Joseph
 </h1>
-
-![SJ the Sahil Joseph](https://github.com/sjTheSahilJoseph/sjTheSahilJoseph/raw/main/CoverA.png)
-
-
-## Entrepreneur & Software Engineer.
-### Specialized in Highly Complex Projects.
-
 </div>
-
 
 <div>
 <h2 align="left">Trophies:</h2>
@@ -45,4 +37,3 @@ SJ the Sahil Joseph
 </div>
 
 
-_ SJ the Sahil Joseph
